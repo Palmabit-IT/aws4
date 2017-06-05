@@ -3,6 +3,9 @@ aws4
 
 [![Build Status](https://secure.travis-ci.org/mhart/aws4.png?branch=master)](http://travis-ci.org/mhart/aws4)
 
+Replace dependency ```querystring``` with ```querystring-browser```
+---
+
 A small utility to sign vanilla node.js http(s) request options using Amazon's
 [AWS Signature Version 4](http://docs.amazonwebservices.com/general/latest/gr/signature-version-4.html).
 
